@@ -17,14 +17,17 @@ h2 {
 }
 
 .addBtn {
- font-size: 16px;
- font-weight: 200;
+ /* font-size: 16px; */
+ margin: 10px;
+ color: red;
+ font-weight: 300;
  border-radius: 360px 360px 360px 360px;
  box-shadow: 0px 0px 10px 0px #ffffff;
- padding: 2px 30px;
+ padding: 5px 30px;
  display: inline-block;
  transition: all 0.3s;
- background-color: navy;
+ background: rgba(0, 0, 0, 0.3);
+ /* background-color: transparent; */
 }
 
 iFrame {
