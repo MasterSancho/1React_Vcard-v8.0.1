@@ -22,7 +22,7 @@ const HomeScreen = () => {
       <span className='spanAddBtn'> שמור אותי באנשי הקשר</span>
      </Button>
     </div>
-    <h2 className='text-white p-3'>שתפו כרטיס ביקור</h2>
+    <h2 className='text-white pt-3'>שתפו כרטיס ביקור</h2>
     <ShareLinks />
     <Divider />
     <SlideshowGallery />
