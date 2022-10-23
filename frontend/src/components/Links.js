@@ -13,7 +13,7 @@ import {
 
 const Links = () => {
  return (
-  <Container>
+  <Container className='lh-1'>
    <Row className='pt-4'>
     <Col>
      <a href='https://waze.com/ul/hsv8z4c0xq'>
@@ -77,7 +77,7 @@ const Links = () => {
      <a href='http://online.flipbuilder.com/hckf/bjuu/mobile/index.html#p=1'>
       <FaListUl className='text-danger' size={30} />
      </a>
-     <p>המדריך למכירת נכס</p>
+     <p className='lh-1'>המדריך למכירת נכס</p>
     </Col>
 
     <Col>

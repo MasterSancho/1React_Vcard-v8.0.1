@@ -5,7 +5,7 @@ body {
  max-width: 600px;
  margin: auto;
  text-align: center;
- background: url(../public/assets/img/background.jpg) no-repeat center fixed;
+ /* font-style: italic; */
 }
 
 p {
@@ -48,4 +48,12 @@ iFrame {
  .leafletContainer {
   height: 400px;
  }
+}
+
+.backgroundBody {
+ background: url(../public/assets/img/background.jpg) no-repeat fixed;
+}
+
+.linkText {
+ line-height: 15px;
 }
