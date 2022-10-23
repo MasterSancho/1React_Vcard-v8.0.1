@@ -10,7 +10,7 @@ const Divider = () => {
      </Col>
 
      <Col>
-      <h3 className='text-danger'>Re/Max</h3>
+      <h3 className='text-danger'>RE/MAX</h3>
      </Col>
 
      <Col>
