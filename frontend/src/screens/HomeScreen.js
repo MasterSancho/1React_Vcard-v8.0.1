@@ -8,6 +8,7 @@ import Map from '../components/Map';
 import ShareLinks from '../components/ShareLinks';
 import SlideshowGallery from '../components/SlideshowGallery';
 import SlideshowRecom from '../components/SlideshowRecom';
+import Slider from '../components/Slider';
 
 const HomeScreen = () => {
  return (
@@ -34,6 +35,7 @@ const HomeScreen = () => {
     <Divider />
     <Map />
     <Divider />
+    {/* <Slider /> */}
    </div>
   </>
  );
