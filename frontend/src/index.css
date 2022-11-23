@@ -54,7 +54,8 @@ iFrame {
 }
 
 .backgroundBody {
- background: url(../public/assets/img/background.jpg) no-repeat fixed;
+ background: url(../public/assets/img/background.jpg) no-repeat fixed center
+  center;
 }
 
 .linkText {
